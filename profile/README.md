@@ -1,6 +1,6 @@
 ## What is Squidki?
 
-**Squidki** is an exhilarating fusion of rhythm and survival, where players must craft strategic beats to conquer elimination challenges. 
+**Sprunki Squidki** is an exhilarating fusion of rhythm and survival, where players must craft strategic beats to conquer elimination challenges. 
 
 👉👉 Click to play [Squidki](https://sprunkly.org/game/squidki)
 
